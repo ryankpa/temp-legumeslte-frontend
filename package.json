@@ -21,12 +21,6 @@
     "web_build": "webpack — mode production",
     "web_start": "webpack-dev-server — mode development — hot — open — port 3100"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
